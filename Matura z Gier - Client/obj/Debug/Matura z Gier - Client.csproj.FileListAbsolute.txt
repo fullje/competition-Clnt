@@ -1,0 +1,26 @@
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Matura z Gier - Client.exe.config
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Matura z Gier - Client.exe
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Matura z Gier - Client.pdb
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\EasyCrypto.dll
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\HtmlAgilityPack.dll
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\MySql.Data.dll
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Newtonsoft.Json.dll
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Google.Protobuf.dll
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\EasyCrypto.xml
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\HtmlAgilityPack.pdb
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\HtmlAgilityPack.xml
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\MySql.Data.xml
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\bin\Debug\Newtonsoft.Json.xml
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.csprojAssemblyReference.cache
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\MainWindow.g.cs
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\App.g.cs
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client_MarkupCompile.cache
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client_MarkupCompile.lref
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\MainWindow.baml
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.g.resources
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura_z_Gier___Client.Properties.Resources.resources
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.csproj.GenerateResource.cache
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.csproj.CoreCompileInputs.cache
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.csproj.CopyComplete
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.exe
+C:\Projekty\TicketApp\MaturaZGierKLIENT\Matura z Gier - Client\Matura z Gier - Client\obj\Debug\Matura z Gier - Client.pdb
